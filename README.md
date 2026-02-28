@@ -1,6 +1,10 @@
 # player-notes
 A simple notes creation / viewing system for your FiveM server
 
+## Dependencies
+- [ox_lib](https://github.com/overextended/ox_lib/releases)
+- [oxmysql](https://github.com/overextended/oxmysql/releases) (Optional)
+
 ## Installation
 - Download [player-notes](https://github.com/yuhdean/player-notes/releases)
 - Unzip the file
